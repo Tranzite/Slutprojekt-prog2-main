@@ -187,7 +187,7 @@ namespace WPF_Balloon_Popping_SLUTPROJEKT
             {
                 gameIsActive = false;
                 gameTimer.Stop();
-                MessageBox.Show("Game over! You missed 10 balloons\nTo play again click OK");
+                MessageBox.Show("Game over! You missed 10 characters from shrek!\nTo play again click OK");
                 RestartGame();
             }
 
