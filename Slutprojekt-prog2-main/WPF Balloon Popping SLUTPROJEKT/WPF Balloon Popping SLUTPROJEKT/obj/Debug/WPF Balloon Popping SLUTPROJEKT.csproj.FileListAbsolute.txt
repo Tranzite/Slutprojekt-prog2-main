@@ -1,0 +1,32 @@
+C:\Users\Tranz\Documents\GitHub\Prog2\Slutproject\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT.csprojAssemblyReference.cache
+C:\Users\Tranz\Documents\GitHub\Prog2\Slutproject\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\MainWindow.g.cs
+C:\Users\Tranz\Documents\GitHub\Prog2\Slutproject\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\App.g.cs
+C:\Users\Tranz\Documents\GitHub\Prog2\Slutproject\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT_Content.g.cs
+C:\Users\Tranz\Documents\GitHub\Prog2\Slutproject\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT_MarkupCompile.cache
+C:\Users\Tranz\Documents\GitHub\Prog2\Slutproject\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT_MarkupCompile.lref
+C:\Users\Tranz\Documents\GitHub\Prog2\Slutproject\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\bin\Debug\WPF Balloon Popping SLUTPROJEKT.exe.config
+C:\Users\Tranz\Documents\GitHub\Prog2\Slutproject\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\bin\Debug\WPF Balloon Popping SLUTPROJEKT.exe
+C:\Users\Tranz\Documents\GitHub\Prog2\Slutproject\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\bin\Debug\WPF Balloon Popping SLUTPROJEKT.pdb
+C:\Users\Tranz\Documents\GitHub\Prog2\Slutproject\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\MainWindow.baml
+C:\Users\Tranz\Documents\GitHub\Prog2\Slutproject\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT.g.resources
+C:\Users\Tranz\Documents\GitHub\Prog2\Slutproject\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF_Balloon_Popping_SLUTPROJEKT.Properties.Resources.resources
+C:\Users\Tranz\Documents\GitHub\Prog2\Slutproject\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT.csproj.GenerateResource.cache
+C:\Users\Tranz\Documents\GitHub\Prog2\Slutproject\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT.csproj.CoreCompileInputs.cache
+C:\Users\Tranz\Documents\GitHub\Prog2\Slutproject\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT.exe
+C:\Users\Tranz\Documents\GitHub\Prog2\Slutproject\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT.pdb
+C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\bin\Debug\WPF Balloon Popping SLUTPROJEKT.exe.config
+C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\bin\Debug\WPF Balloon Popping SLUTPROJEKT.exe
+C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\bin\Debug\WPF Balloon Popping SLUTPROJEKT.pdb
+C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT.csprojAssemblyReference.cache
+C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\MainWindow.g.cs
+C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\App.g.cs
+C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT_Content.g.cs
+C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT_MarkupCompile.cache
+C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT_MarkupCompile.lref
+C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\MainWindow.baml
+C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT.g.resources
+C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF_Balloon_Popping_SLUTPROJEKT.Properties.Resources.resources
+C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT.csproj.GenerateResource.cache
+C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT.csproj.CoreCompileInputs.cache
+C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT.exe
+C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT.pdb

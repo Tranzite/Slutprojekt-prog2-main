@@ -1,0 +1,15 @@
+﻿<Window x:Class="WPF_Balloon_Popping_SLUTPROJEKT.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Balloon_Popping_SLUTPROJEKT"
+        mc:Ignorable="d"
+        Title="Balloon Popping Game" Height="600" Width="500" ResizeMode="CanMinimize">
+    <Canvas Name="MyCanvas" Focusable="True" MouseLeftButtonDown="PopBalloon" Background="White">
+        <!-- This canvas -->
+        <Label FontSize="24" Name="scoreText" Content="Score: 0" FontWeight="ExtraBold" Canvas.Top="519" /> 
+        <!-- This label is the scoretext which shows at the bottom left corner which will evetually change from 0> total balloons popped -->
+    </Canvas>
+   
+</Window>
