@@ -147,7 +147,7 @@ namespace WPF_Balloon_Popping_SLUTPROJEKT
 
                 Canvas.SetLeft(newBalloon, rand.Next(50, 400));
                 Canvas.SetTop(newBalloon, 600);
-
+                
                 MyCanvas.Children.Add(newBalloon);
 
                 intervals = rand.Next(90, 150);
