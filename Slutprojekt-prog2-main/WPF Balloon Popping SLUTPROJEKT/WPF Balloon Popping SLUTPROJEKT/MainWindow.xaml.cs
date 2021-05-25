@@ -75,7 +75,7 @@ namespace WPF_Balloon_Popping_SLUTPROJEKT
                     MyCanvas.Children.Remove(activeRec); // removes the balloon from the canvas
 
                     score += 1;
-                    if (score % 7 == 0)
+                    if (score % 7 == 0) // every 7 popped balloons the speed will increase by 1. so speed will be added at 7,14,21 etc
                     {
                         speed++;
                     }
