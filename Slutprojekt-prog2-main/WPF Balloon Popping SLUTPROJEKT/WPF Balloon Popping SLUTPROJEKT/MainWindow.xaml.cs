@@ -14,6 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 using System.Windows.Threading;
+using WPF_Balloon_Popping_SLUTPROJEKT.Factory;
 
 namespace WPF_Balloon_Popping_SLUTPROJEKT
 {
@@ -53,7 +54,7 @@ namespace WPF_Balloon_Popping_SLUTPROJEKT
             gameTimer.Tick += GameEngine; // links the timer to the game
             gameTimer.Interval = TimeSpan.FromMilliseconds(20); // every 20 miliseconds a new balloon will spawn
 
-            backgroundImage.ImageSource = new BitmapImage(new Uri("pack://application:,,,/files/background-Image.jpg")); //locates and sets the image from the "Files" folder
+            backgroundImage.ImageSource = new BitmapImage(new Uri("pack://application:,,,/Factory/files/background-Image.jpg")); //locates and sets the image from the "Files" folder
             MyCanvas.Background = backgroundImage; // sets the background to the image in the folder
 
             RestartGame();
@@ -69,13 +70,13 @@ namespace WPF_Balloon_Popping_SLUTPROJEKT
 
                     Rectangle activeRec = (Rectangle)e.OriginalSource;
 
-                    player.Open(new Uri("../../files/pop_sound.mp3", UriKind.RelativeOrAbsolute)); //finds the pop sound in the map 
+                    player.Open(new Uri("../../Factory/files/pop_sound.mp3", UriKind.RelativeOrAbsolute)); //finds the pop sound in the map 
                     player.Play();
 
                     MyCanvas.Children.Remove(activeRec); // removes the balloon from the canvas
 
                     score += 1;
-                    if (score % 7 == 0) // every 7 popped balloons the speed will increase by 1. so speed will be added at 7,14,21 etc
+                    if (score % 10 == 0) // every 7 popped balloons the speed will increase by 1. so speed will be added at 7,14,21 etc
                     {
                         speed++;
                     }
@@ -113,36 +114,21 @@ namespace WPF_Balloon_Popping_SLUTPROJEKT
 
                 balloonSkins += 1;
 
+
                 if (balloonSkins > 5)
                 {
                     balloonSkins = 1;
                 }
-                switch (balloonSkins)
-                {
-                    case 1:
-                        balloonImage.ImageSource = new BitmapImage(new Uri("pack://application:,,,/files/balloon1.png"));
-                        break;
-                    case 2:
-                        balloonImage.ImageSource = new BitmapImage(new Uri("pack://application:,,,/files/balloon2.png"));
-                        break;
-                    case 3:
-                        balloonImage.ImageSource = new BitmapImage(new Uri("pack://application:,,,/files/balloon3.png"));
-                        break;
-                    case 4:
-                        balloonImage.ImageSource = new BitmapImage(new Uri("pack://application:,,,/files/balloon4.png"));
-                        break;
-                    case 5:
-                        balloonImage.ImageSource = new BitmapImage(new Uri("pack://application:,,,/files/balloon5.png"));
-                        break;
 
-                }
+                Balloons baloon = BalloonFactory.GetBalloon(balloonSkins);
 
-                Rectangle newBalloon = new Rectangle // defines the balloons properties, height,width and the image
+                Rectangle newBalloon = new Rectangle // defines the balloons properties, height,width and the image through the balloonfactory
                 {
-                    Tag = "balloon",
-                    Height = 80,
-                    Width = 60,
-                    Fill = balloonImage
+                    Tag = baloon.BalloonType,
+                    Height = baloon.Height,
+                    Width = baloon.Width,
+                    Fill = baloon.BalloonImage,
+                    
                 };
 
                 Canvas.SetLeft(newBalloon, rand.Next(50, 400));
@@ -155,7 +141,7 @@ namespace WPF_Balloon_Popping_SLUTPROJEKT
 
             foreach (var x in MyCanvas.Children.OfType<Rectangle>())
             {
-                if ((string)x.Tag == "balloon")
+                if ((string)x.Tag != "")
                 {
 
                     i = rand.Next(-5, 5);

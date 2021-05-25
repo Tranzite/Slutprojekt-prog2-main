@@ -63,6 +63,11 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Factory\BalloonFactory.cs" />
+    <Compile Include="Factory\BalloonTwo.cs" />
+    <Compile Include="Factory\BalloonFive.cs" />
+    <Compile Include="Factory\BalloonFour.cs" />
+    <Compile Include="Factory\BalloonThree.cs" />
     <Compile Include="Factory\BalloonOne.cs" />
     <Compile Include="Factory\Balloons.cs" />
     <Compile Include="MainWindow.xaml.cs">
@@ -97,13 +102,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="files\background-Image.jpg" />
-    <Resource Include="files\balloon1.png" />
-    <Resource Include="files\balloon2.png" />
-    <Resource Include="files\balloon3.png" />
-    <Resource Include="files\balloon4.png" />
-    <Resource Include="files\balloon5.png" />
-    <Content Include="files\pop_sound.mp3" />
+    <Resource Include="Factory\files\background-Image.jpg" />
+    <Resource Include="Factory\files\balloon1.png" />
+    <Resource Include="Factory\files\balloon2.png" />
+    <Resource Include="Factory\files\balloon3.png" />
+    <Resource Include="Factory\files\balloon4.png" />
+    <Resource Include="Factory\files\balloon5.png" />
+    <Content Include="Factory\files\pop_sound.mp3" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -13,8 +13,12 @@ namespace WPF_Balloon_Popping_SLUTPROJEKT.Factory
         
         public BalloonFive()
         {
-           BalloonImage.ImageSource = new BitmapImage(new Uri("pack://application:,,,/files/balloon5.png"));
-           Speed = 2;
+           BalloonImage = new ImageBrush();
+
+            BalloonImage.ImageSource = new BitmapImage(new Uri("pack://application:,,,/Factory/files/balloon5.png"));
+            Speed = 5;
+            Height = 80;
+            Width = 60;
 
         }
         public override string BalloonType
@@ -24,5 +28,7 @@ namespace WPF_Balloon_Popping_SLUTPROJEKT.Factory
 
         public override int Speed { get; set ; }
         public override ImageBrush BalloonImage { get; set; }
+        public override int Height { get; set; }
+        public override int Width { get; set; }
     }
 }

@@ -17,7 +17,6 @@ C:\Users\Tranz\Documents\GitHub\Prog2\Slutproject\WPF Balloon Popping SLUTPROJEK
 C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\bin\Debug\WPF Balloon Popping SLUTPROJEKT.exe.config
 C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\bin\Debug\WPF Balloon Popping SLUTPROJEKT.exe
 C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\bin\Debug\WPF Balloon Popping SLUTPROJEKT.pdb
-C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT.csprojAssemblyReference.cache
 C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\MainWindow.g.cs
 C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\App.g.cs
 C:\Users\david.roman\Documents\GitHub\Slutprojekt-prog2-main\Slutprojekt-prog2-main\WPF Balloon Popping SLUTPROJEKT\WPF Balloon Popping SLUTPROJEKT\obj\Debug\WPF Balloon Popping SLUTPROJEKT_Content.g.cs

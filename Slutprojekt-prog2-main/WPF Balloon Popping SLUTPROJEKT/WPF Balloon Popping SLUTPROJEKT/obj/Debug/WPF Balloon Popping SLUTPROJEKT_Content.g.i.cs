@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("files/pop_sound.mp3")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("factory/files/pop_sound.mp3")]
 
 
