@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace WPF_Balloon_Popping_SLUTPROJEKT.Factory
 {
+    // To do, create a list with the balloons that are going to be sent and then give them their respective speed depending on which type of balloon they are.
     class BalloonFactory
     {
-        public static Balloons GetBalloon(int type)
+        public static Balloons GetBalloon(int type) // inherits a balloon from each respective class 1-5 and runs that code
         {
             switch (type)
             {
