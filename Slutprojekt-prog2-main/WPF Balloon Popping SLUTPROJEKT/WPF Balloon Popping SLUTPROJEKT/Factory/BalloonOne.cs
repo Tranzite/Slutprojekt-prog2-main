@@ -8,10 +8,10 @@ using System.Windows.Media.Imaging;
 
 namespace WPF_Balloon_Popping_SLUTPROJEKT.Factory
 {
-    class BalloonOne : Balloons
+    class BalloonOne : Balloons // Balloon one inherits from Balloons that will contain certain data that needs to be filled
     {
         
-        public BalloonOne()
+        public BalloonOne() // fills BalloonOne with the respective data, gives it a texture and height + width and then returns it as B1 which will be put in a list later on
         {
            BalloonImage = new ImageBrush();
            BalloonImage.ImageSource = new BitmapImage(new Uri("pack://application:,,,/Factory/files/balloon1.png"));
