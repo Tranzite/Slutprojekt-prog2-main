@@ -31,8 +31,8 @@ namespace WPF_Balloon_Popping_SLUTPROJEKT
 
         List<Rectangle> itemRemover = new List<Rectangle>(); // The balloons that are going to reach the top and no longer reachable are going to be added into this list and it will then remove it from the canvas
 
-        List<String> balloonTags = new List<String> { "B1", "B2", "B3", "B4", "B5" };
-        List<Balloons> balloonList = new List<Balloons>();
+        List<String> balloonTags = new List<String> { "B1", "B2", "B3", "B4", "B5" }; // creates a list with 5 variables used later on to determine which balloon it is
+        List<Balloons> balloonList = new List<Balloons>(); // holds the balloons in a list
 
         ImageBrush backgroundImage = new ImageBrush(); // imports and add the background image(s)
 
@@ -147,7 +147,7 @@ namespace WPF_Balloon_Popping_SLUTPROJEKT
 
             foreach (var x in MyCanvas.Children.OfType<Rectangle>())
             {
-                if (balloonTags.Contains(x.Tag))
+                if (balloonTags.Contains(x.Tag)) // Check if the balloon tag list contains a tag and which one, it then determines what speed the balloon should go depending on what their tag is.
                 {
                     i = rand.Next(-5, 5);
                     switch (x.Tag)
